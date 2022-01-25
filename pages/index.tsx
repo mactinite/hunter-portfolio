@@ -51,7 +51,7 @@ const Home: NextPage = () => {
                 <div className='flex flex-col mx-auto w-1/2 gap-4'>
                   <h1 className='text-3xl font-bold font-mono'>About Me</h1>
                   <p>
-                    I've been a professional web developer since 2016. I have built up experience working for companies like AT&T and Microsoft.
+                    I&apos;ve been a professional web developer since 2016. I have built up experience working for companies like AT&amp;T and Microsoft.
                     Working primarily with React, Hunter has completed many features and
                     delivered to millions of customers.
                   </p>
@@ -80,7 +80,7 @@ const Home: NextPage = () => {
                 <div className='flex flex-col mx-auto w-1/2 gap-4'>
                   <h1 className='text-3xl font-bold font-mono'>My Work</h1>
                   <p className='w-1/2'>
-                    On top of the work I've done professionally, I've also made many personal projects which can be browsed on GitHub and Itch.io.
+                    On top of the work I&apos;ve done professionally, I&apos;ve also made many personal projects which can be browsed on GitHub and Itch.io.
                   </p>
                   <div className='text-3xl flex gap-4'>
                     <a href='https://github.com/mactinite' className='opacity-75 hover:opacity-100' title='GitHub'>
@@ -115,7 +115,7 @@ const Home: NextPage = () => {
                 <div className='flex flex-col mx-auto w-1/2 gap-4'>
                   <h1 className='text-3xl font-bold font-mono'>Contact Me</h1>
                   <p className='w-1/2'>
-                    If you'd like to reach out for work opportunities please contact me on the following platforms
+                    If you&apos;d like to reach out for work opportunities please contact me on the following platforms
                   </p>
                   <div className='text-3xl flex gap-4'>
                     <a href='https://www.linkedin.com/in/hunter-macdonald/' className='opacity-75 hover:opacity-100' title='LinkedIn'>
