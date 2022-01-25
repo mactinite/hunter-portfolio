@@ -52,7 +52,7 @@ const Home: NextPage = () => {
                   <h1 className='text-3xl font-bold font-mono'>About Me</h1>
                   <p>
                     I&apos;ve been a professional web developer since 2016. I have built up experience working for companies like AT&amp;T and Microsoft.
-                    Working primarily with React, Hunter has completed many features and
+                    Working primarily with React, I completed many features and
                     delivered to millions of customers.
                   </p>
                 </div>
