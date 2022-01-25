@@ -42,10 +42,9 @@ const Home: NextPage = () => {
                 <button
                   onClick={() => fullpageApi.moveSectionUp()}
                   className='flex flex-col justify-center items-center absolute top-8 w-full gap-1'
-                  title='Scroll for more'
+                  title='Last slide'
                 >
                   <div>
-                    <BsChevronDoubleUp className='animate-ping absolute' />
                     <BsChevronDoubleUp className='' />
                   </div>
                 </button>
@@ -60,10 +59,9 @@ const Home: NextPage = () => {
                 <button
                   onClick={() => fullpageApi.moveSectionDown()}
                   className='flex flex-col justify-center items-center absolute bottom-8 w-full gap-1'
-                  title='Scroll for more'
+                  title='Next Slide'
                 >
                   <div>
-                    <BsChevronDoubleDown className='animate-ping absolute' />
                     <BsChevronDoubleDown className='' />
                   </div>
                 </button>
@@ -73,10 +71,9 @@ const Home: NextPage = () => {
                 <button
                   onClick={() => fullpageApi.moveSectionUp()}
                   className='flex flex-col justify-center items-center absolute top-8 w-full gap-1'
-                  title='Scroll for more'
+                  title='Last slide'
                 >
                   <div>
-                    <BsChevronDoubleUp className='animate-ping absolute' />
                     <BsChevronDoubleUp className='' />
                   </div>
                 </button>
@@ -97,10 +94,9 @@ const Home: NextPage = () => {
                 <button
                   onClick={() => fullpageApi.moveSectionDown()}
                   className='flex flex-col justify-center items-center absolute bottom-8 w-full gap-1'
-                  title='Scroll for more'
+                  title='Next Slide'
                 >
                   <div>
-                    <BsChevronDoubleDown className='animate-ping absolute' />
                     <BsChevronDoubleDown className='' />
                   </div>
                 </button>
@@ -110,10 +106,9 @@ const Home: NextPage = () => {
                 <button
                   onClick={() => fullpageApi.moveSectionUp()}
                   className='flex flex-col justify-center items-center absolute top-8 w-full gap-1'
-                  title='Scroll for more'
+                  title='Last Slide'
                 >
                   <div>
-                    <BsChevronDoubleUp className='animate-ping absolute' />
                     <BsChevronDoubleUp className='' />
                   </div>
                 </button>
