@@ -20,7 +20,7 @@ const Home: NextPage = () => {
             <ReactFullpage.Wrapper>
 
               <div className="section">
-                <div className='flex flex-col mx-auto w-1/2'>
+                <div className='flex flex-col mx-auto px-4 lg:px-32'>
                   <h1 className='text-4xl font-mono'>Hunter MacDonald,</h1>
                   <h2 className='text-3xl font-bold font-mono'>Web Developer</h2>
                   <h3 className='text-base text-opacity-50'>React // Typescript // Node.js</h3>
@@ -48,7 +48,7 @@ const Home: NextPage = () => {
                     <BsChevronDoubleUp className='' />
                   </div>
                 </button>
-                <div className='flex flex-col mx-auto w-1/2 gap-4'>
+                <div className='flex flex-col mx-auto px-8 lg:px-32 gap-4'>
                   <h1 className='text-3xl font-bold font-mono'>About Me</h1>
                   <p>
                     I&apos;ve been a professional web developer since 2016. I have built up experience working for companies like AT&amp;T and Microsoft.
@@ -77,9 +77,9 @@ const Home: NextPage = () => {
                     <BsChevronDoubleUp className='' />
                   </div>
                 </button>
-                <div className='flex flex-col mx-auto w-1/2 gap-4'>
+                <div className='flex flex-col mx-auto px-8 lg:px-32 gap-4'>
                   <h1 className='text-3xl font-bold font-mono'>My Work</h1>
-                  <p className='w-1/2'>
+                  <p className=''>
                     On top of the work I&apos;ve done professionally, I&apos;ve also made many personal projects which can be browsed on GitHub and Itch.io.
                   </p>
                   <div className='text-3xl flex gap-4'>
@@ -112,9 +112,9 @@ const Home: NextPage = () => {
                     <BsChevronDoubleUp className='' />
                   </div>
                 </button>
-                <div className='flex flex-col mx-auto w-1/2 gap-4'>
+                <div className='flex flex-col mx-auto px-8 lg:px-32 gap-4'>
                   <h1 className='text-3xl font-bold font-mono'>Contact Me</h1>
-                  <p className='w-1/2'>
+                  <p >
                     If you&apos;d like to reach out for work opportunities please contact me on the following platforms
                   </p>
                   <div className='text-3xl flex gap-4'>
